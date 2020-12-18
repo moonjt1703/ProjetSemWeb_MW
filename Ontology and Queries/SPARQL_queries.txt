@@ -1,0 +1,94 @@
+PREFIX rdf: <http://xmlns.com/foaf/0.1/> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX geo: <http://purl.obolibrary.org/obo/geo.owl>
+
+#Select stops that have the name "BELLEVUE"
+SELECT ?x
+WHERE {
+	?x rdf:name "BELLEVUE" .
+}
+
+#Select all lines with their URI and their names
+SELECT ?l ?name
+WHERE {
+	?l rdf:Line ?name .
+}
+
+
+#Select all stops with their URI and their names
+SELECT ?s ?name
+WHERE {
+	?s rdf:name ?name .
+}
+
+#Select all the stops with their names, latitudes and longitudes
+SELECT ?stop ?name ?lat ?long
+WHERE {
+	?stop rdf:stop ?name ;
+	      rdf:latitude ?lat ;
+	      rdf:longitude ?long .
+}
+
+#Select all the stops with their names, where the latitude is higher than 45.5
+SELECT ?stop ?name ?lat
+WHERE {
+	?stop rdf:stop ?name ;
+       rdf:latitude ?lat.
+	
+	FILTER( xsd:decimal(?lat) > 4.5 )
+}	
+
+#Select all the distinct names of stops
+SELECT DISTINCT ?name
+WHERE {
+	?stop rdf:name ?name .
+}
+
+#Select all properties
+SELECT ?p
+WHERE {
+	[] ?p []
+}
+
+
+#Select the directions of all the lines along with the names of the lines
+SELECT ?name ?dir ?line
+WHERE {
+	?x rdf:Line ?line ;
+	   rdf:stop ?name ;
+	   rdf:Dir ?dir .
+}
+
+#Select the names of the stops, ordered by their names in ascending order
+SELECT ?stop ?name
+WHERE {
+	?stop rdf:stop ?name .
+}
+ORDER BY ASC(?name)
+
+#Select the names of the stops, where the departure time is equal to 8 AM ordered by their names in ascending order
+SELECT ?stop ?name
+WHERE {
+	?stop rdf:stop ?name ;
+       rdfs:Deptime "08:00:00"^^xsd:time.
+}
+ORDER BY ASC(?name)
+
+
+#Select the names of the stops, where the departure time is higher than 8 AM ordered by departure time in ascending order
+
+SELECT ?stop ?name ?time
+WHERE {
+	?stop rdf:stop ?name ;
+       rdfs:Deptime ?time.
+  filter(?time>"08:00:00"^^xsd:time)
+}
+ORDER BY ASC(?time)
+
+#Select the times where a vehicule is completing a trip. 
+SELECT ?l ?y ?t
+WHERE {
+  ?x rdf:stop ?y;
+     rdfs:ArrTime ?t;
+     rdf:trip ?l. }
