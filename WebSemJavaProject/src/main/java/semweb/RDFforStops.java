@@ -51,8 +51,9 @@ public class RDFforStops {
 				// create properties
 				Property a = model.createProperty(rdf + "stop");
 				Property label = model.createProperty(rdfs + "label");
-				Property longitude=model.createProperty(geo + "longitude");
-				Property latitude=model.createProperty(geo + "latitude");
+			    	Property nom = model.createProperty(rdf + "stop");
+				Property longitude=model.createProperty(rdf + "longitude");
+				Property latitude=model.createProperty(rdf + "latitude");
 
 				
 						
