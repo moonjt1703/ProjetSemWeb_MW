@@ -1,0 +1,1021 @@
+ <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:01:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:01:00"@en .
+<http://www.example.com/10157>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:02:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:02:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:02:00"@en .
+<http://www.example.com/10157>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:03:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:03:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:03:00"@en .
+<http://www.example.com/10157>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:04:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:04:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:04:00"@en .
+<http://www.example.com/10157>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:05:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:05:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:05:00"@en .
+<http://www.example.com/10157>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:07:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:07:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:07:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:39:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:39:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:39:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:40:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:40:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:40:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:41:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:41:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:41:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:42:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:42:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:42:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:42:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:42:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:42:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:43:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:43:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:43:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:43:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:43:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:43:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:44:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:44:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:44:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:45:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:45:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:45:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:45:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:45:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:45:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:46:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:46:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:46:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:47:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:47:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:47:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:48:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:48:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:48:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:49:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:49:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:49:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:50:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:50:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:50:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:51:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:51:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:51:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:52:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:52:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:52:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:53:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:53:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:53:00"@en .
+<http://www.example.com/10158>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "14:55:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "14:55:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "14:55:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:27:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:27:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:27:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:28:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:28:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:28:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:29:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:29:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:29:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:30:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:30:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:30:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:30:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:30:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:30:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:31:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:31:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:31:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:31:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:31:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:31:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:32:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:32:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:32:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:33:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:33:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:33:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:33:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:33:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:33:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:34:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:34:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:34:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:35:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:35:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:35:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:36:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:36:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:36:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:37:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:37:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:37:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:38:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:38:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:38:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:39:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:39:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:39:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:40:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:40:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:40:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:41:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:41:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:41:00"@en .
+<http://www.example.com/10159>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "15:43:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "15:43:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "15:43:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "10:58:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "10:58:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "10:58:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "10:59:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "10:59:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "10:59:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "10:59:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "10:59:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "10:59:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:00:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:00:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:00:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:00:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:00:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:00:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:01:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:01:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:01:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:03:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:03:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:03:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:04:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:04:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:04:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:05:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:05:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:05:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:06:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:06:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:06:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:07:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:07:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:07:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:08:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:08:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:08:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:09:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:09:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:09:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:10:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:10:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:10:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:11:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:11:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:11:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:12:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:12:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:12:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:12:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:12:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:12:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:13:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:13:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:13:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:13:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:13:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:13:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:14:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:14:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:14:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:15:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:15:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:15:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:16:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:16:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:16:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:17:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:17:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:17:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:18:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:18:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:18:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:19:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:19:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:19:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:20:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:20:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:20:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:22:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:22:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:22:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:24:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:24:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:24:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:25:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:25:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:25:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:26:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:26:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:26:00"@en .
+<http://www.example.com/1016>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "11:27:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "11:27:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "11:27:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:15:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:15:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:15:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:16:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:16:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:16:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:17:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:17:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:17:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:18:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:18:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:18:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:18:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:18:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:18:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:19:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:19:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:19:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:19:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:19:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:19:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:20:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:20:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:20:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:21:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:21:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:21:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:21:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:21:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:21:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:22:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:22:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:22:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:23:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:23:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:23:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:24:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:24:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:24:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:25:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:25:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:25:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:26:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:26:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:26:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:27:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:27:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:27:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:28:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:28:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:28:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:29:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:29:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:29:00"@en .
+<http://www.example.com/10160>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "16:31:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "16:31:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "16:31:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:03:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:03:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:03:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:04:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:04:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:04:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:05:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:05:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:05:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:06:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:06:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:06:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:06:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:06:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:06:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:07:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:07:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:07:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:07:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:07:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:07:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:08:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:08:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:08:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:09:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:09:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:09:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:09:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:09:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:09:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:10:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:10:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:10:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:11:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:11:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:11:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:12:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:12:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:12:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:13:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:13:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:13:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:14:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:14:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:14:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:15:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:15:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:15:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:16:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:16:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:16:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:17:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:17:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:17:00"@en .
+<http://www.example.com/10161>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:19:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:19:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:19:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:52:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:52:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:52:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:53:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:53:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:53:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:54:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:54:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:54:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:55:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:55:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:55:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:55:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:55:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:55:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:56:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:56:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:56:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:56:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:56:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:56:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:57:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:57:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:57:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:58:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:58:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:58:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:58:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:58:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:58:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "17:59:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "17:59:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "17:59:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "18:00:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "18:00:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "18:00:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "18:01:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "18:01:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "18:01:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "18:02:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "18:02:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "18:02:00"@en .
+<http://www.example.com/10162>
+        a       "http://www.example.com/Time" ;
+        <http://www.w3.org/2000/01/rdf-schema#ArrTime>
+                "18:03:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#Deptime>
+                "18:03:00"^^<http://www.w3.org/2001/XMLSchema#time> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "18:03:00"@en .
+PS C:\Users\pc expert\Desktop\Sem Web Project Data> 

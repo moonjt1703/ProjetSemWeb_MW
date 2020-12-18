@@ -1,0 +1,1020 @@
+  <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6385621416 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5439655576 .
+<http://www.example.com/1894>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PIZAY"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6383690546 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5439425305 .
+<http://www.example.com/2316>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PLACE CUMINES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3278236808 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5483354466 .
+<http://www.example.com/1895>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA COISSIERE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3959434168 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5481371796 .
+<http://www.example.com/1918>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA COISSIERE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.395512195 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5485950901 .
+<http://www.example.com/2194>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BENIERE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4041694078 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5519812288 .
+<http://www.example.com/1896>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BOURG FONTANES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4389999448 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.547993266 .
+<http://www.example.com/2182>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BOURG FONTANES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4394544281 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5481557163 .
+<http://www.example.com/1897>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FONT CHEVALIER"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4414651942 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5474789292 .
+<http://www.example.com/1898>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FONT CHEVALIER"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4413752569 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5474716218 .
+<http://www.example.com/1899>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE CHEVALARD"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4607842924 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5442518679 .
+<http://www.example.com/1900>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE CHEVALARD"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.460863158 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5443043682 .
+<http://www.example.com/1901>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FONTBONNOND"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4677803006 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.545324756 .
+<http://www.example.com/1902>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FONTBONNOND"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4676398629 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5453364312 .
+<http://www.example.com/1903>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BOURG ST CHRISTO"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4879367033 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5458928978 .
+<http://www.example.com/1904>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BOURG ST CHRISTO"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4876440856 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5459435237 .
+<http://www.example.com/1905>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA CULA"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.5683086984 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5449212833 .
+<http://www.example.com/1906>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE PLANTIER"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.5948630182 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5446673388 .
+<http://www.example.com/1907>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE PATUEL"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.5976411365 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5468252415 .
+<http://www.example.com/1908>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE PATUEL"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.5977366161 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5469673131 .
+<http://www.example.com/1909>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA RONZE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6052790702 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5481646163 .
+<http://www.example.com/1910>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA RONZE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6041648496 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5481692077 .
+<http://www.example.com/1911>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LES ABRICOTIERS"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6082385119 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5481765583 .
+<http://www.example.com/1912>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LES ABRICOTIERS"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6076823987 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5483588527 .
+<http://www.example.com/1913>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MONTBRESSIEUX"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6177263526 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5446714219 .
+<http://www.example.com/1914>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MONTBRESSIEUX"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6171256261 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5453226827 .
+<http://www.example.com/1916>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PETIT VAILLE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6285977893 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5461412246 .
+<http://www.example.com/1917>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PETIT VAILLE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6284501835 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5462882522 .
+<http://www.example.com/2393>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LES 4 ROUTES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2808414474 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.551177594 .
+<http://www.example.com/2577>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LES 4 ROUTES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2810532256 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5513718947 .
+<http://www.example.com/2394>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AVENUE MAZOYER"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2802099198 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5507026132 .
+<http://www.example.com/2395>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AVENUE MAZOYER"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2800697457 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5507230465 .
+<http://www.example.com/2317>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LES OGIERS"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3224409756 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5518058425 .
+<http://www.example.com/2318>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SOURCIEU"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3273135073 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.551593262 .
+<http://www.example.com/1919>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE BOUCHUT"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4811515821 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5486151032 .
+<http://www.example.com/1920>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE BOUCHUT"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.481122962 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5488676443 .
+<http://www.example.com/1921>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA VIARE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4932221785 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.548734047 .
+<http://www.example.com/1922>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA VIARE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4935528525 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5486736731 .
+<http://www.example.com/1923>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FLACHES DU PLEIN"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4912744414 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.550355537 .
+<http://www.example.com/1924>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FLACHES DU PLEIN"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4912363933 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5503652696 .
+<http://www.example.com/1925>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA PLAINE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6176034875 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5503800341 .
+<http://www.example.com/1926>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA PLAINE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6180022847 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5501108968 .
+<http://www.example.com/1927>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MILISSIEUX"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6215226125 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.551911087 .
+<http://www.example.com/1928>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MILISSIEUX"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6211958519 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5526827766 .
+<http://www.example.com/2396>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CH. DES GRANGES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2850007912 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5561627623 .
+<http://www.example.com/2397>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CH. DES GRANGES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2847694053 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5561397938 .
+<http://www.example.com/2320>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BUISSONNET"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3255014009 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5556931604 .
+<http://www.example.com/1929>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE MAS-ST JOSEPH"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6087114595 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5553130692 .
+<http://www.example.com/1931>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE MAS-ST JOSEPH"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6085839768 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5556396636 .
+<http://www.example.com/1930>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAIRIE ST-JOSEPH"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6181884642 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.555237202 .
+<http://www.example.com/2270>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA BESSONNIERE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6173154476 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.559224084 .
+<http://www.example.com/2271>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA BESSONNIERE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6169221523 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5596281087 .
+<http://www.example.com/2402>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LAVOIR FAVOTS"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2986868311 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5631589672 .
+<http://www.example.com/2403>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LAVOIR FAVOTS"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3007799044 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5614933912 .
+<http://www.example.com/1932>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE FRAISSE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6078319846 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5594709975 .
+<http://www.example.com/1933>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE FRAISSE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6078668352 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.559695294 .
+<http://www.example.com/1934>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA VIRY"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6127767226 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.561008544 .
+<http://www.example.com/1935>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA VIRY"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6127548267 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5610989912 .
+<http://www.example.com/2404>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AVENUE PLANCHET"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2898253777 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5625490561 .
+<http://www.example.com/2405>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AVENUE PLANCHET"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2893277182 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5622427699 .
+<http://www.example.com/2406>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RUE ABBE DELORME"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2965817517 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5652116786 .
+<http://www.example.com/2407>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RUE ABBE DELORME"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2965529514 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5651221909 .
+<http://www.example.com/2408>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COLL. A.GUICHARD"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3067717922 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5621079959 .
+<http://www.example.com/2409>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COLL. A.GUICHARD"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3071926924 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5620555886 .
+<http://www.example.com/2195>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BOURG"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4098666739 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5566815403 .
+<http://www.example.com/1941>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "L'HOPITAL"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4957301433 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5624283468 .
+<http://www.example.com/1942>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "L'HOPITAL"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4958194088 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5624176245 .
+<http://www.example.com/1943>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA SAUZIERE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6132935219 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5642200942 .
+<http://www.example.com/1944>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA SAUZIERE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.6133447312 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5642190522 .
+<http://www.example.com/2410>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "GARE VEAUCHE STG"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2935947105 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5666048342 .
+<http://www.example.com/2413>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "GARE VEAUCHE STG"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2929792636 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5658686611 .
+<http://www.example.com/2411>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PLACE A. BRIAND"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2958966961 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.568652373 .
+<http://www.example.com/2412>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PLACE A. BRIAND"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.2956767815 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5685932283 .
+<http://www.example.com/1945>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BISSIEUX"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.610917659 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5696865185 .
+<http://www.example.com/2321>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "VERT LOGIS"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3012253349 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5732925548 .
+<http://www.example.com/2414>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "VERT LOGIS"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3017763043 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5732918816 .
+<http://www.example.com/2322>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TERRE ROUGE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3304778285 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.574314146 .
+<http://www.example.com/1946>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BOURG MARCENOD"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4821480313 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5716263665 .
+<http://www.example.com/2183>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BOURG MARCENOD"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4822252087 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5716338867 .
+<http://www.example.com/2323>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAIRIE CHAMBOEUF"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3204438597 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5767962608 .
+<http://www.example.com/2324>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "MAIRIE CHAMBOEUF"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.320675147 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5771701319 .
+<http://www.example.com/2325>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PUITS BLANC"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3169124788 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5769487866 .
+<http://www.example.com/2415>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PUITS BLANC"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3171673197 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5769082805 .
+<http://www.example.com/2326>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HLM CHARPINIERE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.309544226 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5841253322 .
+<http://www.example.com/2327>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HLM CHARPINIERE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3077570903 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5836078584 .
+<http://www.example.com/2328>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA RICHELANDE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.315192404 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.582945732 .
+<http://www.example.com/2329>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA RICHELANDE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3149455065 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5828511033 .
+<http://www.example.com/2330>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BATIE CHAMBOEUF"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.317606358 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5805722222 .
+<http://www.example.com/2331>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BATIE CHAMBOEUF"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3181233909 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5803380887 .
+<http://www.example.com/2332>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LES SOURCES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.312800033 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5870016734 .
+<http://www.example.com/2333>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LES SOURCES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.310837514 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.58588439 .
+<http://www.example.com/2334>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ROUTE CHEVRIERES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3198977266 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5887030203 .
+<http://www.example.com/2335>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ROUTE CHEVRIERES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3204626287 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5887290089 .
+<http://www.example.com/2336>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "VAL DE COISE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3289568264 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5893341142 .
+<http://www.example.com/2337>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PONT DES ROMAINS"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3260703553 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5867756374 .
+<http://www.example.com/2338>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PONT DES ROMAINS"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3262900506 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.586825729 .
+<http://www.example.com/2339>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COLL. J. ROMAINS"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3069510884 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5933412673 .
+<http://www.example.com/2340>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AVENUE RAVEL"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.314469742 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5928217332 .
+<http://www.example.com/2341>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AVENUE RAVEL"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.314223205 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5930960672 .
+<http://www.example.com/2342>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE COLISEE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3162098546 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5909461219 .
+<http://www.example.com/2343>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE COLISEE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3162402189 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5907206023 .
+<http://www.example.com/2344>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA MADONE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3198888898 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5920239251 .
+<http://www.example.com/2345>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA MADONE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3196339545 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.590993519 .
+<http://www.example.com/2346>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RD PT DU CHEVAL"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3059805489 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5955991643 .
+<http://www.example.com/2347>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RD PT DU CHEVAL"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3064142255 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5958975116 .
+<http://www.example.com/2348>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COL. S.STEPHANIE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3163663071 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5928062128 .
+<http://www.example.com/2349>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "COL. S.STEPHANIE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3164861167 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5929300846 .
+<http://www.example.com/2350>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA FRARIE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3130130594 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5936663927 .
+<http://www.example.com/2351>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA FRARIE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.312890752 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.5938305391 .
+<http://www.example.com/2352>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA BROSSE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3213275218 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6003048156 .
+<http://www.example.com/2353>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LA BROSSE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3210652625 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6004984497 .
+<http://www.example.com/2354>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "VERNAY BAS CMA"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3216408356 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6040249899 .
+<http://www.example.com/2355>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "VERNAY BAS CMA"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3213089955 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6040668688 .
+<http://www.example.com/2356>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "VERNAY HAUT"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3224318057 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.60854664 .
+<http://www.example.com/2357>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "VERNAY HAUT"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3221174751 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6083632265 .
+<http://www.example.com/2416>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE CLAVEAU"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3462494858 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6224668876 .
+<http://www.example.com/2417>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LE CLAVEAU"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.346057558 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.62247933 .
+<http://www.example.com/2418>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ZI GRANGE EGLISE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4306629665 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6314683503 .
+<http://www.example.com/2419>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ZI GRANGE EGLISE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4292178581 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6315853481 .
+<http://www.example.com/2420>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PLACE DE GAULLE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.4566298031 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6302150166 .
+<http://www.example.com/2421>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RUE C. BROSSE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.375978841 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6349519461 .
+<http://www.example.com/2422>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RUE C. BROSSE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.375687311 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6350472474 .
+<http://www.example.com/2423>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HLM LAMARTINE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3820140035 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6354539078 .
+<http://www.example.com/2426>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "HLM LAMARTINE"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3823305876 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6343051823 .
+<http://www.example.com/2424>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PL. DES PORTES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3864294942 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6362101783 .
+<http://www.example.com/2425>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "PL. DES PORTES"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3857587465 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6354214838 .
+<http://www.example.com/2427>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RUE DES TILLEULS"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3914903918 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6360364833 .
+<http://www.example.com/2428>
+        a       "http://www.example.com/PublicTransportStops" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "RUE DES TILLEULS"@en ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#latitude>
+                4.3916073639 ;
+        <http://www.w3.org/2003/01/geo/wgs84_pos#longitude>
+                45.6350443818 .
