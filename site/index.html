@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Available transport nearby</title>
+    <img src="logo-emse.png" alt="logo-emse" width="75px" usemap="#emse">
+    <img src="ujm logo.jpeg" alt="logo-ujm" width="75px" usemap="#ujm">
+	<link rel="stylesheet" href="style_websem.css">
+    <link rel="stylesheet" href="styleV3.css">
+
+
+</head>
+
+<body>
+    
+    </div class="navbar" id="myTopnav">
+        <ul>
+            <li class="active"><a href="index.html">Home</a></li>
+            <li><a href="gallery.html">Explore The City</a></li>
+        </ul>
+    </div>
+ <div class="searchbar">
+        <h1>We'll get you the nearest stations from your depart to your destination</h1>
+        <!--form action="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EasyPHP 12.1\submit.php" method=”post” class="formulaire"-->
+            <!--form action="C:\Users\pc expert\Desktop\Sem Web Project Data\WebSemJavaProject\src\main\java\semweb\RdfRequest.java" method=”post” class="formulaire"-->
+            <form action="submit.php" method="post" class="formulaire">
+            	<input class="champ" type="text" placeholder="Where are you going from ?"/>
+                <input class="bouton" type="submit" value="go" >               
+                <input class="champ" type="text" placeholder="Where are you headed ?"/>
+            	<input class="bouton" type="submit" value="go " />
+            	
+            </form>
+       
+    </div>
+
+</div>
+<div style="margin-top:10px;border-width: 2px; border-color: navy; border-style:solid; background-image:url(saint-etienne.jpg);">
+ <div id="wrapper-9cd199b9cc5410cd3b1ad21cab2e54d3">
+        <div id="map-9cd199b9cc5410cd3b1ad21cab2e54d3"></div><script>(function () {
+        var setting = {"height":540,"width":792,"zoom":11,"queryString":"Saint-Étienne, France","place_id":"ChIJFeTPDf-r9UcRVldjh9uyMQY","satellite":false,"centerCoord":[45.424134545875404,4.366464502501728],"cid":"0x631b2db87635756","lang":"en","cityUrl":"/france/saint-etienne-19417","cityAnchorText":"Map of Saint-Etienne, South of France, France","id":"map-9cd199b9cc5410cd3b1ad21cab2e54d3","embed_id":"328312"};
+        var d = document;
+        var s = d.createElement('script');
+        s.src = 'https://1map.com/js/script-for-user.js?embed_id=328312';
+        s.async = true;
+        s.onload = function (e) {
+          window.OneMap.initMap(setting)
+        };
+        var to = d.getElementsByTagName('script')[0];
+        to.parentNode.insertBefore(s, to);
+      })();</script><a href="https://1map.com/map-embed">1 Map</a></div>
+
+</div>
+
+
+<div data-udata-dataset="5c34c93f8b4c4104b817fb3a"></div>
+
+<script data-udata="https://www.data.gouv.fr/" src="https://static.data.gouv.fr/static/oembed.js" async defer></script>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "navbar") {
+    x.className += " responsive";
+  } else {
+    x.className = "navbar";
+  }
+}
+
+</script>
+</body>
+</html>

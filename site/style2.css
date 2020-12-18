@@ -1,0 +1,9 @@
+#map_menu{
+  display: inline;
+  text-decoration: none;
+  color: navy;
+  padding: 10px 20px;
+  border: 1px solid transparent;
+  transition: 0.9s ease;
+  font-family: Arial;
+}
