@@ -51,19 +51,26 @@ public class RdfForTimes {
 				Property label = model.createProperty(rdfs + "label");
 				Property Arrivaltime = model.createProperty(rdfs + "ArrTime");
 				Property Departuretime = model.createProperty(rdfs + "Deptime");
+				Property trip = model.createProperty(rdf + "trip");
+                Property stop = model.createProperty(rdf + "stop");
 
 				
 						
 				String id = ex + Timesrecord[0];
+				String trip_id = Timesrecord[0];
 				Literal name = model.createLiteral(Timesrecord[1], "en");
 				String Arr=Timesrecord[1];
 				String Dep=Timesrecord[2];
+				String stop_id = Timesrecord[3];
 				
 				Resource Times = model.createResource(id);
 				Times.addProperty(a, ex + "Time");
 				Times.addProperty(label, name);
 				Times.addProperty(Arrivaltime,Arr, XSDDatatype.XSDtime);
 				Times.addProperty(Departuretime,Dep, XSDDatatype.XSDtime);
+				Times.addProperty(trip, trip_id);
+                Times.addProperty(stop,stop_id);
+
 
 
 				

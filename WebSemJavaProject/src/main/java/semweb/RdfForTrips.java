@@ -43,17 +43,20 @@ public class RdfForTrips {
 				Property a = model.createProperty(rdf + "type");
 				Property label = model.createProperty(rdfs + "label");
 				Property name = model.createProperty(rdf + "name");
+				Property route = model.createProperty(rdf + "route");
 				
 						
 				String id = ex + Tripsrecord[2];
 				Literal nom = model.createLiteral(Tripsrecord[3], "fr");
 				Literal englishname = model.createLiteral(Tripsrecord[3], "en");
+				String route_id = Tripsrecord[0];
 
 				
 				Resource trips = model.createResource(id);
 				trips.addProperty(a, ex + "PublicTransportLine");
 				trips.addProperty(name, nom);
 				trips.addProperty(label, englishname);
+				trips.addProperty(route, route_id);
 
 				model.write(System.out, "TURTLE");
 				

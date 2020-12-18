@@ -49,9 +49,8 @@ public class RDFforStops {
 				
 				Model model = ModelFactory.createDefaultModel();
 				// create properties
-				Property a = model.createProperty(rdf + "stop");
-				Property label = model.createProperty(rdfs + "label");
-			    	Property nom = model.createProperty(rdf + "stop");
+				Property a = model.createProperty(rdf + "type");
+				Property nom = model.createProperty(rdf + "stop");
 				Property longitude=model.createProperty(rdf + "longitude");
 				Property latitude=model.createProperty(rdf + "latitude");
 
@@ -65,7 +64,7 @@ public class RDFforStops {
 				
 				Resource Stops = model.createResource(id);
 				Stops.addProperty(a, ex + "PublicTransportStops");
-				Stops.addProperty(label, name);
+				Stops.addProperty(nom, name);
 				Stops.addProperty(longitude,longi, XSDDatatype.XSDdecimal);
 				Stops.addProperty(latitude,lati, XSDDatatype.XSDdecimal);
 				
