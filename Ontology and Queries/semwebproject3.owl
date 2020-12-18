@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#"
+     xml:base="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#HasLineType -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#HasLineType"/>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasBusStop -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasBusStop">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasStop"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isBusStopOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusLine"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusStop"/>
+        <rdfs:comment xml:lang="en">This property is a sub-property of hasStop: it specifically links a bus line to a bus stop.</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasLocation -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasLocation">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isLocationOf"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Location"/>
+        <rdfs:comment xml:lang="en">This property is used to link a stop to its geospatial location.</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasStop -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasStop">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isStopOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportLine"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop"/>
+        <rdfs:comment xml:lang="en">This property links a public transportation line to a stop. It expresses the idea that the stop is part of a given line.</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasTimetable -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasTimetable">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isTimetableOf"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportLine"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#StopTimes"/>
+        <rdfs:comment xml:lang="en">This property links a public transportation line to its corresponding timetable entity.</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasTramStop -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasTramStop">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasStop"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isTramStopOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramLine"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramStop"/>
+        <rdfs:comment xml:lang="en">This property is a sub-property of hasStop: it specifically links a tram line to a tram stop.</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isBusStopOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isBusStopOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isStopOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusStop"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusLine"/>
+        <rdfs:comment xml:lang="en">This property is a sub-property of isStopOf. It specifically links a bus stop to a bus line.</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isFollowedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isFollowedBy">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isFollowing"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportLine"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Vehicle"/>
+        <rdfs:comment xml:lang="en">This property is used to link public transportation line to a vehicle. It is the inverse of isFollowing. It expresses the idea that a line is being followed by a vehicle</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isFollowing -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isFollowing">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Vehicle"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportLine"/>
+        <rdfs:comment xml:lang="en">This property is used to link a vehicle to a public transportation line, and expresses the idea that the given vehicle follows the public transportation line</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isGoingFrom -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isGoingFrom">
+        <rdfs:comment xml:lang="en">This property is used to define the starting extremity of a line. A bus will have to be going from somewhere to somewhere else.</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isGoingTo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isGoingTo">
+        <rdfs:comment xml:lang="en">This property is used to define the starting extremity of a line. A bus will have to be going from somewhere to somewhere else.</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isLocationOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isLocationOf">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Location"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop"/>
+        <rdfs:comment xml:lang="en">This property is the inverse of hasLocation, and indicates that the given geospatial position corresponds to a specific public transportation stop (like a bus stop or a tram stop).</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isStopOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isStopOf">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportLine"/>
+        <rdfs:comment xml:lang="en">This property links a stop to a public transportation lines, and expresses the idea that the given stop belongs to the specified line. It is the inverse property of hasStop.</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isTimetableOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isTimetableOf">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#StopTimes"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop"/>
+        <rdfs:comment xml:lang="en">This property links a timetable to a line, it assigns a given timetable to the specified public transportation line.</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isTramStopOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isTramStopOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isStopOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramStop"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramLine"/>
+        <rdfs:comment xml:lang="en">This property is a sub-property of isStopOf. It specifically links a tram stop to a tram line.</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#ArrivalTime -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#ArrivalTime">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#StopTimes"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Bus -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Bus">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Vehicle"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isFollowing"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusLine"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isGoingFrom"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusStop"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isGoingTo"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusStop"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusLine -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusLine">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportLine"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasStop"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusStop"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isFollowedBy"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Bus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusStop -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusStop">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isStopOf"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#BusLine"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">This class defines bus stops, and is therefore a sub-class of PublicTransportStop. Bus stops are part of bus lines.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#DepartureTime -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#DepartureTime">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#StopTimes"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Latitude -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Latitude">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Location"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Location -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Location"/>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Longitude -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Longitude">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Location"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Person -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Person"/>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportLine -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportLine">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasStop"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasTimetable"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#StopTimes"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasLocation"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Location"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isStopOf"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportLine"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">This class corresponds to public transportation stops, be they bus stops, tram stops, etc. They have a specific location, and are part of public transportation lines.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#StopTimes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#StopTimes">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isTimetableOf"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramLine -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramLine">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportLine"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasStop"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramStop"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isFollowedBy"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Bus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramStop -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramStop">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isStopOf"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramLine"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">This class defines tram stops, and is therefore a sub-class of PublicTransportStop. Tram stops are part of tram lines.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Tramway -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Tramway">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Vehicle"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isFollowing"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramLine"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isGoingFrom"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramStop"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isGoingTo"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#TramStop"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#User -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#User">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Person"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#hasLocation"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Location"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Vehicle -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#Vehicle">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isGoingFrom"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#isGoingTo"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/williamlim/ontologies/2020/12/semwebproject#PublicTransportStop"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
